@@ -5,5 +5,5 @@ cut -c20-29 NCBI_protein > NCBI_protein_name
 sort -u NCBI_protein_name > NCBI_protein_name1
 rm NCBI_protein_name |mv NCBI_protein_name1 NCBI_protein_name    #change gene name
 https://www.ncbi.nlm.nih.gov/sites/batchentrez; select protein item; upload your NCBI protein ID file
-run 
-taskid=170424722390718
+run in kobas; select protein sequene
+Nodule_specifi_gene_protein_sequence in taskid=170424722390718 
