@@ -7,3 +7,4 @@ rm NCBI_protein_name |mv NCBI_protein_name1 NCBI_protein_name    #change gene na
 https://www.ncbi.nlm.nih.gov/sites/batchentrez; select protein item; upload your NCBI protein ID file
 run in kobas; select protein sequene
 Nodule_specifi_gene_protein_sequence in taskid=170424722390718 170424748947693
+Root_specific_gene_protein_sequence in taskid=170505959996047
