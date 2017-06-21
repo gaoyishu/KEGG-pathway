@@ -1,0 +1,2 @@
+#HOMER 
+Peak finding and downstream data analysis was performed using HOMER, a software suite for ChIP-Seq analysis, which in part was created to support this study. Peaks were defined at a 0.1% estimated false discovery rate, indicated as a dashed line in genome browser images.
