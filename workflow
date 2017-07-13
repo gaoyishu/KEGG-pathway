@@ -8,3 +8,4 @@ https://www.ncbi.nlm.nih.gov/sites/batchentrez; select protein item; upload your
 run in kobas; select protein sequene
 Nodule_specifi_gene_protein_sequence in taskid=170424722390718 170424748947693
 Root_specific_gene_protein_sequence in taskid=170505959996047
+5%_nodule_sequence in taskid=170713036630248
