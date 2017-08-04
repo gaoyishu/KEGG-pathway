@@ -1,0 +1,16 @@
+import re
+data1 = open("String.rtf", "r")
+data2 = open("genename.rtf", "r")
+for line1 in data1:
+    elements1 = re.split(';|' '', line1)
+    if elements1[3] == "transcripts":
+        MSTR_name1 = elements1[10]
+        genename = elements1[12]
+        for line2 in data2:  
+            element2 = line2.split()
+            MSTR_name2 = element[1]
+            if MSTR_name1 == MSTR_name2:
+                line2.replace(MSTR_name2, genename)
+        line2.close()
+line1.close()
+        
